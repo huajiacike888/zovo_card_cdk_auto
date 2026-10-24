@@ -1,3 +1,4 @@
+# Actions enabled for tagged release publishing.
 # Tag 推送 v* 时自动构建 linux/amd64 发布包并挂到 GitHub Release，
 # 供管理后台「一键更新」下载（无需生产机装 Go/Node）。
 name: release
